@@ -17,5 +17,5 @@ A simple utility that creates any amount of Ethereum wallets.
 2. Install dependencies
    ``pip install -r requirements.txt``
 
-3.Run
-   `python main.py`
+3. Run
+   ``python main.py``
