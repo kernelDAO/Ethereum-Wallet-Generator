@@ -11,11 +11,14 @@ A simple utility that creates any amount of Ethereum wallets.
 ## Installation
 
 1. Clone the repository
+
 ```git clone https://github.com/kernelDAO/Ethereum-Wallet-Generator```
 ```cd Ethereum-Wallet-Generator```
 
 2. Install dependencies
+
 ```pip install -r requirements.txt```
 
 3. Run
+
 ```python main.py```
